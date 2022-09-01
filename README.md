@@ -20,6 +20,8 @@ When you run this code, they are matching as you can see.
 
 If user wants to give input and we do not know input, how can we do this if you know connect to me.
 
+[To learn python you can click](https://app.patika.dev)
+
 
 
 
